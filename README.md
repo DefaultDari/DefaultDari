@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Даниил! 👋
 
-<!--
-**DefaultDari/DefaultDari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+- 🎓 Студент МГК цифровых технологий
+- 💻 Изучаю бэк-энд
+- 🌱 Сейчас я работаю над улучшением своих навыков в разработке программ на различных языках
 
-Here are some ideas to get you started:
+## Мои навыки
+- Python
+- C++
+- Git
+- Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Связаться со мной
+- Telegram: @GimmeUrPhone
+- agjjjkhjuf@gmail.com
