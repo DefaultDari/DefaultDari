@@ -10,7 +10,3 @@
 - C++
 - Git
 - Lua
-
-## Связаться со мной
-- Telegram: @GimmeUrPhone
-- agjjjkhjuf@gmail.com
